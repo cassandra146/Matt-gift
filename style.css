@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrolling */
+    background-color: #87CEEB; /* Matches the sky blue background */
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    display: block; /* Removes the gap below the canvas */
+}
